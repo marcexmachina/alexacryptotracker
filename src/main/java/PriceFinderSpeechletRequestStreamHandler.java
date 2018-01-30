@@ -19,4 +19,4 @@ public class PriceFinderSpeechletRequestStreamHandler extends SpeechletRequestSt
     public PriceFinderSpeechletRequestStreamHandler() {
         super(new PriceFinderSpeechlet(), supportedApplicationIds);
     }
-}g
+}
